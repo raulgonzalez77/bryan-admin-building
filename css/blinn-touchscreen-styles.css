@@ -31,7 +31,7 @@ h2 {
   color: inherit;
   appearance: none;
   /*background-color: #002d72 !important;*/
-  background-color: rgba(0, 45, 114, 0.8);
+  background-color: rgba(0, 45, 114, 0.9);
   /* make sure properties affecting height have same value */
   font-size: 30px;
   color: #ffffff;
