@@ -1,6 +1,6 @@
-# blinn-student-services
+# Bryan Admin Building Kiosk
 
-/*RAUL GONZALEZ - 09-15-2023 */
+/*RAUL GONZALEZ - 02-07-2024 */
 
 This is a splash page to be used in a touch screen. Just a quick proof of concept. Uses local Bootstrap, so no internet accss is needed.
 
